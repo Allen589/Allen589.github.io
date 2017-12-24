@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Test-image](/Users/allenliu/Pictures/IMG_0843.JPG){:class="img-responsive"}
+![Test-image](/Users/allenliu/Desktop/Side Projects/Allen589.github.io/download.jpeg){:class="img-responsive"}
 
 
 This is an about page about this awesome site.
