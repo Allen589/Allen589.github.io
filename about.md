@@ -1,17 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-![Test-image](/Users/allenliu/Desktop/Side Projects/Allen589.github.io/download.jpeg){:class="img-responsive"}
 
-
-This is an about page about this awesome site.
-Hope you love it!
-
-Reasons:
-- its great.
-- its a test.
+Hi, welcome to my page! My name is Allen Liu and I am a Junior double majoring in Computer Science and Mathematics at the University of Maryland, College Park.
 
 ## Other thoughts
 
