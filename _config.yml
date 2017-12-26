@@ -7,4 +7,4 @@ github_username:  Allen589
 
 # Build settings
 markdown: kramdown
-theme: hanuman
+theme: minima
