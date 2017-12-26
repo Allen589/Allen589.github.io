@@ -3,11 +3,7 @@ layout: page
 title: Hobbies
 ---
 
-I work on my projects, create music, enjoy writing poetry and fiction, and a
+I work on my [projects](https://github.com/Allen589), create [music](https://soundcloud.com/user-473257234-233180361), enjoy writing poetry and fiction, and am a
 huge NBA fan.
 
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[Link to a file]({{ site.baseurl }}{% link /assets/files/snow.pdf %})

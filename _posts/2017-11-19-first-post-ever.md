@@ -8,5 +8,5 @@ categories: life update
 ![Some flowers for you]({{ "/assets/download.jpeg" | absolute_url }})
 
 
-Hello! This is my first post in my personal website.
+Hello! This is my first post in my personal website, enjoy these flowers.
 Thank you for reading!
