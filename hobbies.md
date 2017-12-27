@@ -7,6 +7,6 @@ I work on my [projects](https://github.com/Allen589), create [music](https://sou
 huge NBA fan.
 
 # List of my literary works:
-[Snow](assets/snow.pdf)
-[Forgotten Land](assets/forgottenLand.pdf)
+[Snow](assets/snow.pdf),
+[Forgotten Land](assets/forgottenLand.pdf),
 [Tour Life](assets/tourLife.pdf)
