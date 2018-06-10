@@ -10,4 +10,4 @@ Hi, welcome to my page! My name is Allen Liu and I am a Junior double majoring i
 Outside of technical interests, I am interested in music, writing, and basketball. Links to work related to these interests are found under the "Hobbies" tab.
 
 I am also involved in numerous extracurriculars in school. I serve as a [America Counts mentor](http://thestamp.umd.edu/leadership_community_service-learning/programs/america_reads_america_counts), and have volunteered in several events within cultural organizations such as the
-[Vietnamese Student Association](http://www.vsaumcp.com/) and the [Chinese Student Association](http://www.vsaumcp.com/). Feel free to contact me via my email listed below.
+[Vietnamese Student Association](https://orgsync.com/64473/chapter) and the [Chinese Student Association](http://umd-cssa.org/). Feel free to contact me via my email listed below.
